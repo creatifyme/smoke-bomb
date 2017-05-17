@@ -3,7 +3,7 @@ Steps to prevent sites, cell phone providers, and internet service providers(ISP
 
 ![smoke bomb](images/smoke-bomb.gif)
 
-## Breif education
+## Brief education
 
 ### Why should I even care?
 The House of Representatives followed the Senate in voting for a resolution that throws out Obama-era regulations that would have banned your internet service provider from selling your web browsing history to advertisers. So what does that mean?
